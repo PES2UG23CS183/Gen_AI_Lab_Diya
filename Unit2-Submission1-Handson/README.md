@@ -1,4 +1,4 @@
-# Unit2 Submission 1 - Handson Assignment 1
+# Unit 2 Submission 1 - Handson Assignment 1
 
 This folder contains the following .ipynb files:
 1. Langchain Foundation

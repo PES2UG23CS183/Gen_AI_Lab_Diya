@@ -8,5 +8,5 @@ This folder contains a .ipynb file which builds a "Smart Customer Support Router
 - A Billing Expert for refund requests.
 - A General Expert for for casual chat.
 
-
+Additionally, it also incorporates a "Tool Use" expert which routes the user prompt to a function that (mock) fetches data, instead of just an LLM response.
   

@@ -1,4 +1,4 @@
-# Unit3-Submission1-Handson Assignment1
+# Unit 3 Submission 1 - Handson Assignment 1
 
 This folder contains the following .ipynb files:
 

@@ -5,7 +5,7 @@
 
 ## Overview
 
-This folder contains a `.ipynb` file which builds a **Production-Grade Advanced RAG (Retrieval Augmented Generation) System** for a university knowledge assistant. It goes significantly beyond a Naïve RAG pipeline by combining multiple retrieval and query expansion techniques into a single end-to-end system. The system takes a student's vague, short question and retrieves the most relevant AI/ML documents to generate a precise, grounded answer. It also contains a pdf file which contains the screenshots of all the outputs along with the required comparison table.
+This folder contains a `.ipynb` file which builds a **Production-Grade Advanced RAG (Retrieval Augmented Generation) System** for a university knowledge assistant. It goes significantly beyond a Naïve RAG pipeline by combining multiple retrieval and query expansion techniques into a single end-to-end system. The system takes a student's vague, short question and retrieves the most relevant AI/ML documents to generate a precise, grounded answer. It also contains a `pdf` file which contains the screenshots of all the outputs along with the required comparison table.
 
 ## Parts Covered
 

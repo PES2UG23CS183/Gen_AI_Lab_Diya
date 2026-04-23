@@ -32,6 +32,11 @@ This folder contains a `.ipynb` file which builds a self-evaluating agentic RAG 
 | Avg relevancy (KB questions) | 0.93 |
 
 
+## Note on Rate Limit Error
+
+> The notebook contains a visible `RateLimitError` in the cell running question 7 ("How does nuclear fusion work inside a star?"). This occurred because the Groq free-tier daily token limit (100,000 TPD) was exhausted after running 6 questions back-to-back. The error is not a code issue - the pipeline code is identical to the cells that successfully ran questions 1–6. Question 7 was successfully completed in a subsequent cell after switching to a different model within the same API key, and its result is included in the final results table.
+
+
 ## Key Observations
 
 * All 4 straightforward knowledge-base questions passed with perfect scores (F=1.00, R=1.00), confirming the RAG retrieval and generation pipeline works correctly for factual queries.

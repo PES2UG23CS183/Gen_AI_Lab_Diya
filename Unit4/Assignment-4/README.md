@@ -1,5 +1,5 @@
 
-# Unit 4 Assignment: Evaluated Agentic RAG System
+# Unit 4 Submission 2 - Assignment 4: Evaluated Agentic RAG System
 
 **Tools:** Python, CrewAI, DeepEval, FAISS, HuggingFace, Groq API, LangChain, sentence-transformers
 
